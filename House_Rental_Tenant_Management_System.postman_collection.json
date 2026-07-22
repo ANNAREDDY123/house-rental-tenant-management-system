@@ -1,0 +1,227 @@
+{
+  "info": {
+    "_postman_id": "b982c76c-1e1c-4a05-a5cd-f43fec4bec8f",
+    "name": "House_Rental_Tenant_Management_System",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "55938644",
+    "_collection_link": "https://go.postman.co/collection/55938644-b982c76c-1e1c-4a05-a5cd-f43fec4bec8f?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Register Admin",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Register Owner",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Register Tenant",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Login",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Create House",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Houses",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get House by ID",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Update House",
+      "request": {
+        "method": "PUT",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Delete House",
+      "request": {
+        "method": "DELETE",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Search House By Address",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Search House By Type",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Filter House By Status",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "House Pagination",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Create Tenant",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Tenants",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Tenant by ID",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Update Tenant",
+      "request": {
+        "method": "PUT",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Delete Tenant",
+      "request": {
+        "method": "DELETE",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Create Payment",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Payments",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Payment by ID",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Update Payment",
+      "request": {
+        "method": "PUT",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Delete Payment",
+      "request": {
+        "method": "DELETE",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Tenant Payment History",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Overdue Payments",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Filter Paid Payments",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Payment Pagination",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
